@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/RebeccaZhou/Test/_apis/build/status/danidandan.Test)](https://dev.azure.com/RebeccaZhou/Test/_build/latest?definitionId=1)
 
 # Contributing
 
